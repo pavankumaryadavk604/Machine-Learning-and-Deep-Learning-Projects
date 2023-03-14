@@ -1,0 +1,4 @@
+objective
+
+i. identify the number of audio source signals in the Mixed audio input signal
+ii. separate the audio source signals from the Mixed audio signal.
